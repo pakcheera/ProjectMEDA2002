@@ -69,6 +69,8 @@ This screenshot shows suicide number in each year of the Russia Federation. This
 <img width="1440" alt="Screen Shot 2020-10-24 at 6 49 40 pm" src="https://user-images.githubusercontent.com/73279529/97080994-a012f800-1629-11eb-916e-62acd21dd8da.png">
 This screenshot shows the trend of the most 5 countries that has the highest suicide number in each year. 
 
+Objective 3 : The total suicide number grouping by ages in each year.
+
 
 
 
