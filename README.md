@@ -57,8 +57,17 @@ Suicide statistic that compares by sex and compares by a range of age in each Pr
 
 Object 2 : The trend of the most n countries of average suicide number showing in each year.
 
+<img width="1438" alt="Screen Shot 2020-10-24 at 6 49 15 pm" src="https://user-images.githubusercontent.com/73279529/97080990-9d180780-1629-11eb-8e9c-05648e25e0ac.png">
+This screenshot shows the trend of the most 3 countries that has the highest suicide number in each year. 
 
+<img width="1440" alt="Screen Shot 2020-10-24 at 6 49 24 pm" src="https://user-images.githubusercontent.com/73279529/97080992-9e493480-1629-11eb-99f6-4746f90c9248.png">
+This screebshot shows the regression line of Japan that able to forecast the future trend of suicide number in Japan. Moreover, it also displays the equation of suicide number that use to forecast, R-squared and P-value.
 
+<img width="1440" alt="Screen Shot 2020-10-24 at 6 49 33 pm" src="https://user-images.githubusercontent.com/73279529/97080993-9f7a6180-1629-11eb-9272-4fbbabfa064a.png">
+This screenshot shows suicide number in each year of the Russia Federation. This picture is year 2004.
+
+<img width="1440" alt="Screen Shot 2020-10-24 at 6 49 40 pm" src="https://user-images.githubusercontent.com/73279529/97080994-a012f800-1629-11eb-916e-62acd21dd8da.png">
+This screenshot shows the trend of the most 5 countries that has the highest suicide number in each year. 
 
 
 
