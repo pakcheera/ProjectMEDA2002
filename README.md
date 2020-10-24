@@ -3,8 +3,8 @@
 # A project summary
 There are 4 objectives which are 
 1. Overall of suicide statistic that compares by sex and compares by a range of age in each country or group country showing by map and bar chart.
-2. The trend of the most n countries of average suicide number showing in each year
-3. The total suicide number grouping by ages in each year 
+2. The trend of the most n countries of average suicide number showing in each year.
+3. The total suicide number grouping by ages in each year.
 4. The total suicide number grouping by sex in each year. 
 
 The first objective,using the geovisualisation to represent the world map and use the bar charts to show suicide number that compares by age in each country and sex. 
@@ -54,6 +54,8 @@ Suicide statistic that compares by sex and compares by a range of age in each Ru
 <img width="1440" alt="Screen Shot 2020-10-24 at 6 44 37 pm" src="https://user-images.githubusercontent.com/73279529/97080877-dac86080-1628-11eb-9be6-9b1fff4f6cc0.png">
 Suicide statistic that compares by sex and compares by a range of age in each Protogal.
 
+
+Object 2 : The trend of the most n countries of average suicide number showing in each year.
 
 
 
