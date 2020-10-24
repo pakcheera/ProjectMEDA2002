@@ -27,3 +27,19 @@ Cleaning Data : https://github.com/pakcheera/ProjectMEDA/blob/main/cleandata_1.c
 
 <img width="452" alt="Picture 1" src="https://user-images.githubusercontent.com/73279529/97080505-0eee5200-1626-11eb-9ac3-8afa68317946.png">
 
+We remove all row that have NULL value in Suicide No and Population.
+
+# Contribution of each team member. 
+
+Sasa Manasboonpermpoon 20302647: objective 2 and objective 4
+Pakcheera Choppradit 20303349 : objective 1 and objective 3
+Both of us helped each other to do Readme.md and slide.
+
+
+# A clear description of how to execute/run the project and on which platform.
+
+Firstly, we import data (who_suicide_statistics.csv) to R to clean it and save to name Cleandata_1.csv for use in Tableau. Then we do each objective in following :
+R (ggplot2 and plotly) : objective 3 and  objective 4
+Tableau :  objective 1 and objective 2.
+
+# Any related media: visuals and screenshots. 
