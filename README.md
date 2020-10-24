@@ -71,7 +71,9 @@ This screenshot shows the trend of the most 5 countries that has the highest sui
 
 Objective 3 : The total suicide number grouping by ages in each year.
 
+<img width="1434" alt="Screen Shot 2020-10-24 at 7 03 34 pm" src="https://user-images.githubusercontent.com/73279529/97081283-8ffc1800-162b-11eb-8cc2-72581aa7f1ec.png">
 
+<img width="1440" alt="Screen Shot 2020-10-24 at 7 05 25 pm" src="https://user-images.githubusercontent.com/73279529/97081305-c174e380-162b-11eb-8eec-3cffbd86dd17.png">
 
 
 
