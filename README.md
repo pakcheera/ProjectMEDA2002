@@ -85,9 +85,28 @@ Objective 4 : The total suicide number grouping by sex in each year.
 
 <img width="1440" alt="Screen Shot 2020-10-24 at 7 09 19 pm" src="https://user-images.githubusercontent.com/73279529/97081390-5e378100-162c-11eb-83d0-fedfdf2408cd.png">
 
-Visualisation results. 
+# Visualisation results. 
 
 HTML of objective 1 : 
+HTML of objective 2 : 
+HTML of objective 3 : 
+HTML of objective 4 : 
 
+# Any final design reflections or observations.
 
+The report has 4 objectives which are :
+1.Overall of suicide statistic that compares by sex and compares by a range of age in each country or group country showing by map and bar chart.
+2. The trend of the most n countries of average suicide number showing in each year
+3. The total suicide number grouping by ages in each year 
+4. The total suicide number grouping by sex in each year. 
+
+After creating visualisation of all of these objectives, visualisation reflects several things. Firstly, the first objective shows the overall of suicide statistic. Therefore, it is more effective for creating geovisualization with other visualisations in the same frame helps viewer to more understand the detail of suicide data in each country. In this case, we create bar charts for using to compare sex and a range of age in each country. 
+
+Secondly, the country that has high competition such as Japan and USA is one of the country that get one of the highest suicide number. Due to the second visualisation, the most 3 countries that commit suicide are Russia, USA and Japan, respectively. Moreover, this visualisation is able to forecast the future trend in each country. According to the second visualisation, Russia have lower trend to commit suicide in the future whereas USA and Japan have highter trend to commit suicidein the future. 
+
+Next, age range also has effect to commit suicide. According to the third visualisation the age that has the highest suicide number is 35-54 years, whereas the age range that has the lowest suicide number is 5-14 years.
+
+Lastly, sex has effect to comit the suicide. According to the fourth visualisation, male has obviously higher suicide number than female.
+
+In conclusion, sex, age and country have effect to commit the suicide. There are not only adult to commit the suicide but children(5-14 years) also commit suicide too. Do not forget to pay attention to intimates, suicide might be closer that you think. 
 
