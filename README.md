@@ -2,7 +2,7 @@
 
 # A project summary
 There are 4 objectives which are 
-1.Overall of suicide statistic that compares by sex and compares by a range of age in each country or group country showing by map and bar chart.
+1. Overall of suicide statistic that compares by sex and compares by a range of age in each country or group country showing by map and bar chart.
 2. The trend of the most n countries of average suicide number showing in each year
 3. The total suicide number grouping by ages in each year 
 4. The total suicide number grouping by sex in each year. 
@@ -43,3 +43,22 @@ R (ggplot2 and plotly) : objective 3 and  objective 4
 Tableau :  objective 1 and objective 2.
 
 # Any related media: visuals and screenshots. 
+
+Objective 1 : Overall of suicide statistic that compares by sex and compares by a range of age in each country or group country showing by map and bar chart.
+
+<img width="1440" alt="Screen Shot 2020-10-23 at 8 51 23 pm" src="https://user-images.githubusercontent.com/73279529/97080567-82905f00-1626-11eb-8dfa-e6f47ca692d6.png">
+
+<img width="1440" alt="Screen Shot 2020-10-23 at 9 17 11 pm" src="https://user-images.githubusercontent.com/73279529/97080572-88864000-1626-11eb-961c-2429d5649402.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
