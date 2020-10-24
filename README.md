@@ -79,8 +79,15 @@ Objective 3 : The total suicide number grouping by ages in each year.
 
 Objective 4 : The total suicide number grouping by sex in each year. 
 
+<img width="1440" alt="Screen Shot 2020-10-24 at 7 09 05 pm" src="https://user-images.githubusercontent.com/73279529/97081387-5c6dbd80-162c-11eb-8f42-ab5f7b92b68e.png">
 
+<img width="1440" alt="Screen Shot 2020-10-24 at 7 09 12 pm" src="https://user-images.githubusercontent.com/73279529/97081389-5d9eea80-162c-11eb-99ef-32339f6b99f8.png">
 
+<img width="1440" alt="Screen Shot 2020-10-24 at 7 09 19 pm" src="https://user-images.githubusercontent.com/73279529/97081390-5e378100-162c-11eb-83d0-fedfdf2408cd.png">
+
+Visualisation results. 
+
+HTML of objective 1 : 
 
 
 
