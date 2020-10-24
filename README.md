@@ -25,5 +25,5 @@ Cleaning Data : https://github.com/pakcheera/ProjectMEDA/blob/main/cleandata_1.c
 
 # Approach: what was selected and what was omitted.
 
-
+<img width="452" alt="Picture 1" src="https://user-images.githubusercontent.com/73279529/97080505-0eee5200-1626-11eb-9ac3-8afa68317946.png">
 
