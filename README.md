@@ -48,8 +48,11 @@ Objective 1 : Overall of suicide statistic that compares by sex and compares by 
 
 <img width="1440" alt="Screen Shot 2020-10-23 at 8 51 23 pm" src="https://user-images.githubusercontent.com/73279529/97080567-82905f00-1626-11eb-8dfa-e6f47ca692d6.png">
 
-<img width="1440" alt="Screen Shot 2020-10-23 at 9 17 11 pm" src="https://user-images.githubusercontent.com/73279529/97080572-88864000-1626-11eb-961c-2429d5649402.png">
+<img width="1440" alt="Screen Shot 2020-10-24 at 6 43 23 pm" src="https://user-images.githubusercontent.com/73279529/97080859-bc626500-1628-11eb-8c16-b5eb615cf0d1.png">
+Suicide statistic that compares by sex and compares by a range of age in each Russia.
 
+<img width="1440" alt="Screen Shot 2020-10-24 at 6 44 37 pm" src="https://user-images.githubusercontent.com/73279529/97080877-dac86080-1628-11eb-9be6-9b1fff4f6cc0.png">
+Suicide statistic that compares by sex and compares by a range of age in each Protogal.
 
 
 
