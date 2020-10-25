@@ -94,11 +94,7 @@ Objective 4 : The total suicide number grouping by sex in each year.
 
 HTML of objective 1 : https://public.tableau.com/views/ProjectMEDA/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
 HTML of objective 2 : https://public.tableau.com/profile/pakcheera.choppradit#!/vizhome/ProjectMEDA/Dashboard2
-HTML of objective 3 
-```{r}
-print("abc")
-```
-
+HTML of objective 3 :
 HTML of objective 4 : 
 
 # Any final design reflections or observations.
