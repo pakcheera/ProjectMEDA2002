@@ -16,7 +16,7 @@ The third objective, using the scatterplot to shows the suicide number in each a
 The fourth objective, using the scatterplot to shows the suicide number in each sex and in each year. Moreovr, this visaulisation also has regression line for forecast the suicide future trend. 
 
 
-# The data source (or a stable link to the data source, say to GitHub).
+# The data source.
 
 Source Data : https://github.com/pakcheera/ProjectMEDA/blob/main/who_suicide_statistics.csv
 		Or  https://www.kaggle.com/szamil/who-suicide-statistics
@@ -47,7 +47,7 @@ R (ggplot2 and plotly) : objective 3 and  objective 4
 
 Tableau :  objective 1 and objective 2.
 
-# Any related media: visuals and screenshots. 
+# Explain the graph of each objective.
 
 Objective 1 : Overall of suicide statistic that compares by sex and compares by a range of age in each country or group country showing by map and bar chart.
 
